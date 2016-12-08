@@ -4,7 +4,7 @@ Hello.
 < Hello world!
 * welcome
 
-< I don't know much yet, but if you need some pointers on where to get started you should check out the docs -
+< I do not know much yet, but if you need some pointers on where to get started you should check out the docs -
 [http://docs.init.ai](documentation_link)
 * provide/documentation
 
